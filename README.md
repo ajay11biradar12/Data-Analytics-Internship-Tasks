@@ -21,7 +21,6 @@ This repository contains two major tasks completed during my Data Analytics inte
 - **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, Prophet, Matplotlib, Seaborn
 - **Environment:** Jupyter Notebook
 
-[![Offer Letter](https://img.shields.io/badge/Internship-Offer--Letter-blue)](./Offer-Letter.pdf)
 
 ## 📈 Results
 The projects include visual evaluations like Confusion Matrices, Feature Importance plots, and Forecast vs. Actual sales charts.
@@ -29,5 +28,8 @@ The projects include visual evaluations like Confusion Matrices, Feature Importa
 <img width="1159" height="586" alt="image" src="https://github.com/user-attachments/assets/56e38cce-ece9-458a-88ec-b5e3c7a61b40" />
 <img width="1130" height="696" alt="image" src="https://github.com/user-attachments/assets/31d93d4e-00d6-4ac3-a752-3b2f5d5431f7" />
 <img width="456" height="723" alt="image" src="https://github.com/user-attachments/assets/c478e725-307a-4548-a53d-7923a6a41a47" />
+
+
+[![Offer Letter](https://img.shields.io/badge/Internship-Offer--Letter-blue)](./Offer-Letter.pdf)
 
 

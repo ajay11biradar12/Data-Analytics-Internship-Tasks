@@ -1,4 +1,4 @@
-# Data Analytics Internship Projects
+# Data Analytics Internship Tasks
 
 This repository contains two major tasks completed during my Data Analytics internship. These projects demonstrate my skills in Machine Learning, Time-Series Analysis, and Data Visualization.
 
